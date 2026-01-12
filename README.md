@@ -5,7 +5,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 I am a Data Science graduate with hands-on experience in Python analytics, machine learning workflows, and Flask-based application development. I also work on Webflow-based UI implementations and automation. My interests span analytical systems, AI-driven tools, dashboard engineering, and simulation-based modeling.  
 :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
 
@@ -36,7 +36,7 @@ I am a Data Science graduate with hands-on experience in Python analytics, machi
 
 ---
 
-## 🌙 Featured Projects (Dark Mode Friendly)
+## Featured Projects
 
 ### 🔹 LLM-Powered Data Analysis Chatbot  
 A Flask application that converts natural language queries into auto-generated pandas code using GPT-4. Includes CSV upload, execution engine, and UI for chart rendering.  
@@ -64,7 +64,7 @@ RBAC-based authentication system with OTP verification and CAPTCHA login flow.
 
 ---
 
-## 🧠 Experience
+##  Experience
 
 **Data CoE Intern – Tata Consultancy Services (TCS)**  
 Portfolio optimization augmented by GenAI: dataset preparation, optimization technique exploration, and automation workflows.  
@@ -76,20 +76,20 @@ Analyzed fitness datasets using pandas and visualization tools such as Matplotli
 
 ---
 
-## 🎓 Education  
+##  Education  
 **Integrated M.Sc. Data Science — Amrita Vishwa Vidyapeetham (CGPA: 8.28/10)**  
 :contentReference[oaicite:9]{index=9}
 
 ---
 
-## 📜 Certifications  
+## Certifications  
 - Google Business Intelligence  
 - Google Data Analytics  
 - Agentic AI Bootcamp (LangGraph + LangChain)
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/sivaarunkumarp">

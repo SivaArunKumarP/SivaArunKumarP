@@ -7,7 +7,6 @@
 
 ## About Me
 I am a Data Science graduate with hands-on experience in Python analytics, machine learning workflows, and Flask-based application development. I also work on Webflow-based UI implementations and automation. My interests span analytical systems, AI-driven tools, dashboard engineering, and simulation-based modeling.  
-:contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -40,45 +39,38 @@ I am a Data Science graduate with hands-on experience in Python analytics, machi
 
 ### 🔹 LLM-Powered Data Analysis Chatbot  
 A Flask application that converts natural language queries into auto-generated pandas code using GPT-4. Includes CSV upload, execution engine, and UI for chart rendering.  
-**Tech:** Python, Flask, GPT-4 API, HTML/CSS/JS  
-:contentReference[oaicite:3]{index=3}
+**Tech:** Python, Flask, GPT-4 API, HTML/CSS/JS 
 
 ---
 
 ### 🔹 Intelligent Expense Tracker  
-ML-driven expense categorization and real-time budget analytics with a modular Flask + MySQL setup.  
-:contentReference[oaicite:4]{index=4}
+ML-driven expense categorization and real-time budget analytics with a modular Flask + MySQL setup. 
 
 ---
 
 ### 🔹 Behavioural Study of Drivers in Parking Lots  
-Simulated autonomous parking behavior using Python threading, semaphores, and CARLA + OpenCV for trajectory visualization.  
-:contentReference[oaicite:5]{index=5}
+Simulated autonomous parking behavior using Python threading, semaphores, and CARLA + OpenCV for trajectory visualization. 
 
 ---
 
 ### 🔹 Employee Management & Security Portal  
 RBAC-based authentication system with OTP verification and CAPTCHA login flow.  
 **Tech:** Flask, Java, MySQL  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
 ##  Experience
 
 **Data CoE Intern – Tata Consultancy Services (TCS)**  
-Portfolio optimization augmented by GenAI: dataset preparation, optimization technique exploration, and automation workflows.  
-:contentReference[oaicite:7]{index=7}
+Portfolio optimization augmented by GenAI: dataset preparation, optimization technique exploration, and automation workflows. 
 
 **Data Analytics Intern – MedTourEasy**  
 Analyzed fitness datasets using pandas and visualization tools such as Matplotlib and Seaborn.  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
 ##  Education  
 **Integrated M.Sc. Data Science — Amrita Vishwa Vidyapeetham (CGPA: 8.35/10)**  
-:contentReference[oaicite:9]{index=9}
 
 ---
 

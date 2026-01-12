@@ -77,7 +77,7 @@ Analyzed fitness datasets using pandas and visualization tools such as Matplotli
 ---
 
 ##  Education  
-**Integrated M.Sc. Data Science — Amrita Vishwa Vidyapeetham (CGPA: 8.28/10)**  
+**Integrated M.Sc. Data Science — Amrita Vishwa Vidyapeetham (CGPA: 8.35/10)**  
 :contentReference[oaicite:9]{index=9}
 
 ---
